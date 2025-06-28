@@ -1,6 +1,7 @@
 function Header(){
-    return <div>
-        <h1>Welcome to My Website</h1>
+    return <div class="container text-center">
+        <h1>TODO app</h1>
+
     </div>
 }
 
