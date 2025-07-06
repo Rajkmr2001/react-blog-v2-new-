@@ -1,7 +1,7 @@
 function AppName() {
     return (
         <div class="container ">
-        <h1>TODO apps 12st</h1>
+        <h1>TODO apps ka project</h1>
 
     </div>
     );

@@ -1,0 +1,27 @@
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    margin: 10px;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+input {
+    width: 100%;
+}
+
+.container-item {
+    text-align: left;
+}
+
+.Raj-row {
+    margin: 10px 5px;
+}
+
+.Raj-Button {
+    width: 80px;
+}
+
+.size {
+    width: 100%;
+}
