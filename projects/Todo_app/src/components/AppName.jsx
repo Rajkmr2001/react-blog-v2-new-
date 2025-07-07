@@ -1,6 +1,6 @@
 function AppName() {
     return (
-        <div class="container ">
+        <div className="container ">
         <h1>TODO apps ka project</h1>
 
     </div>
