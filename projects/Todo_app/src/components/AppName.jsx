@@ -1,9 +1,10 @@
+import styles from "./AppName.module.css";
+
 function AppName() {
     return (
-        <div className="container ">
-        <h1>TODO apps ka project</h1>
-
-    </div>
+        
+        <h1 className={styles.todoHeading}>TODO apps ka project</h1>
+    
     );
 }
 export default AppName;
